@@ -6,10 +6,9 @@
 
 <div class="section blog">
         <h3>📝 Blog</h3>
-        <a href="https://blog.naver.com/YOUR_BLOG_ID" target="_blank">
+        <a href="https://blog.naver.com/njy3006" target="_blank">
             <img src="./images/naver-blog-icon.png" alt="Naver Blog Icon" width="150">
         </a>
-        <p><a href="https://blog.naver.com/njy3006" target="_blank">블로그에서 보기</a></p>
     </div>
 
 
