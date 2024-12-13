@@ -7,7 +7,7 @@
 <div class="section blog">
         <h3>📝 Blog</h3>
         <a href="https://blog.naver.com/njy3006" target="_blank">
-            <img src="https://github.com/user-attachments/assets/a3630f95-2016-4a73-bdd1-2002dd8cdb41" alt="Blog Icon" width="150">>
+            <img src="https://github.com/user-attachments/assets/a3630f95-2016-4a73-bdd1-2002dd8cdb41" alt="Blog Icon" width="100">
         </a>
     </div>
 ![blog1]()
