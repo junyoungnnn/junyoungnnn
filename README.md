@@ -9,6 +9,12 @@
 </p>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C#-23239120?style=for-the-badge&logo=C#&logoColor=ffffff)
+![unity](https://img.shields.io/badge/-unity-#FFFFFF?style=for-the-badge&logo=C#&logoColor=ffffff)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white">
