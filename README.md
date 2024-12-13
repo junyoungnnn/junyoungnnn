@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm JunYoung</h1>
 
 <h3 align="left"> 🌱 Interested In:</h3>
-- 데이터 분석
-- 머신러닝
-- 딥러닝
+<ul>
+        <li>데이터 분석</li>
+        <li>머신러닝</li>
+        <li>딥러닝</li>
+</ul>
 
 <div class="Watch">
         <h3>📝 Watch and Read</h3>
