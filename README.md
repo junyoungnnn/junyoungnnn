@@ -4,11 +4,13 @@
 
 - 🌱 I’m currently learning **Data Analysis & AI**
 
-<h3 align="left">Blog:</h3>
-[![Naver Blog](https://via.placeholder.com/150x50.png?text=NAVER+BLOG)](https://blog.naver.com/njy3006) 
-<p align="left">
-  
-</p>
+<div class="section blog">
+        <h2>📝 네이버 블로그 포스트</h2>
+        <a href="https://blog.naver.com/YOUR_BLOG_ID" target="_blank">
+            <img src="https://via.placeholder.com/150x50.png?text=NAVER+BLOG" alt="Naver Blog">
+        </a>
+        <p><a href="https://blog.naver.com/njy3006" target="_blank">블로그에서 보기</a></p>
+    </div>
 
 
 
