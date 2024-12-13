@@ -6,7 +6,7 @@
 
 <div class="Watch">
         <h3>📝 Watch and Read</h3>
-        <a href="" target="_blank">
+        <a>
                 <img src="https://github.com/user-attachments/assets/04ec7264-c164-4013-927c-aa676442695b" width="50">
         </a>
         <a href="https://blog.naver.com/njy3006" target="_blank">
