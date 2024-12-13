@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm JunYoung</h1>
 
-- 🌱 I’m currently learning **Data Analysis & AI**
+<h3 align="left"> 🌱 Interested In:</h3>
+- 데이터 분석
+- 머신러닝
+- 딥러닝
 
 <div class="Watch">
         <h3>📝 Watch and Read</h3>
