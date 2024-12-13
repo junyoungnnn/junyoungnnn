@@ -9,7 +9,6 @@
         <a href="https://www.youtube.com/@%EC%98%A4%EB%8A%98%EC%A0%90%EC%8B%AC%EC%9D%80%ED%96%84%EB%B2%84%EA%B1%B0/featured" target="_blank">
             <img src="https://github.com/user-attachments/assets/04ec7264-c164-4013-927c-aa676442695b" alt="Youbute Icon" width="50">
         </a>
-        
         <a href="https://blog.naver.com/njy3006" target="_blank">
             <img src="https://github.com/user-attachments/assets/a3630f95-2016-4a73-bdd1-2002dd8cdb41" alt="Blog Icon" width="50">
         </a>
