@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm JunYoung</h1>
-<h3 align="center">https://youtu.be/WQkc045usN0</h3>
-<h3 align="Center">https://youtu.be/lh8ia-oXPc8</h3>
 
 - 🌱 I’m currently learning **Data Analysis & AI**
 
