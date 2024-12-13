@@ -4,8 +4,10 @@
 
 - 🌱 I’m currently learning **Data Analysis & AI**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Blog:</h3>
+[![Naver Blog](https://via.placeholder.com/150x50.png?text=NAVER+BLOG)](https://blog.naver.com/njy3006) 
 <p align="left">
+  
 </p>
 
 
